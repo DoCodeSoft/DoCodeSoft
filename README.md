@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @DoCodeSoft
-- 👀 I’m interested in Software Development
+- 👋 Hola, soy @DoCodeSoft
+- 👀 Me interesa el desarrollo de software
